@@ -15,7 +15,7 @@ int main(void)
 	r = _sqrt_recursion(1024);
 	printf("%d\n", r);
 	r = _sqrt_recursion(16);
-	rintf("%d\n", r);
+	printf("%d\n", r);
 	r = _sqrt_recursion(17);
 	printf("%d\n", r);
 	r = _sqrt_recursion(25);
